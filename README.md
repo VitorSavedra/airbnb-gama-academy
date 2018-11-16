@@ -26,4 +26,4 @@ Onde, os dados dos cards deverão ser exibidos através de uma requisição em A
 4. Bora pro desafio!
 
 ## Agradecimentos
-@douglasmaiabr, ex-aluno do Gama Experience e mantém disponibilizado a API para consultarmos. ;)
+@douglasmaiabr, ex-aluno do Gama Experience que mantém disponibilizado a API para consultarmos. ;)
