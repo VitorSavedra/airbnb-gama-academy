@@ -1,5 +1,5 @@
 // Faremos as requisações em uma API externa, cujo endpoint já está listado abaixo.
-const API_URL = "http://airbnb.douglasmaia.com/api/properties";
+const API_URL = "https://api.sheety.co/30b6e400-9023-4a15-8e6c-16aa4e3b1e72";
 
 // Para isso, usaremos o "fetch", conforme você deve ter visto nas aulas online.
 // Corrija a linha abaixo, para que a requisição funcione.
